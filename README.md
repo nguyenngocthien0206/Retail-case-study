@@ -35,5 +35,7 @@ of products and offers through heat-mapping of customers and many others.***
 ## This book has three sheets (Customer, Transaction, Product Hierarchy):
 
 ***Customer: Customer information including demographics***
+
 ***Transaction: Transaction of customers***
+
 ***Product Hierarchy: Product information***
