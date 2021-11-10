@@ -33,6 +33,6 @@ Create a report and display the calculated metrics, reports and inferences.
 Data Schema
 This book has three sheets (Customer, Transaction, Product Hierarchy):
 
-Customer: Customer information including demographics
-Transaction: Transaction of customers
-Product Hierarchy: Product information
+Customer: Customer information including demographics\n
+Transaction: Transaction of customers\n
+Product Hierarchy: Product information\n
